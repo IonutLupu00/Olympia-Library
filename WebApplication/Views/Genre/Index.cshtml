@@ -1,0 +1,14 @@
+﻿@model Olympia_Library.Models.GenreModel.GenreIndexModel 
+
+<h2>@Model.GenreName</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach(var book in Model.BookList)
+        {
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="@book.BookId">
+                <img class="genre-book-image" src="@book.ImageUrl" />
+            </a>            
+        }
+    </div>
+</div>

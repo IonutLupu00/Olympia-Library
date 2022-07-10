@@ -1,0 +1,31 @@
+﻿body {
+    background-image: url("../images/booksBg.jpg");
+}
+
+
+
+.divBg {
+    width: 70%;
+    position: relative;
+    left: 15%;
+    background: rgba(186, 186, 186, 0.3);
+    color: black;
+    font-size: 1.25em;
+    padding:20px;
+    
+}
+
+
+.divMap{
+    position:relative;
+    width: 45%;
+    height: 45%;
+
+}
+
+
+
+#google-map{
+    text-align:center;
+    margin:30px;
+}

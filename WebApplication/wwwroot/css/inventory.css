@@ -1,0 +1,41 @@
+﻿
+
+body {
+    background-image: url("../images/booksBg.jpg");
+}
+
+
+
+
+.divBg {
+    width: 70%;
+    position: relative;
+    left: 15%;
+    background: rgba(186, 186, 186, 0.3);
+    color: black;
+    font-size: 1.25em;
+}
+
+.left {
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+
+
+
+.butctr{
+    position: relative;
+    left:30%;
+    width:5em;
+    height:2em;
+}
+
+.butt {
+    width: 10%;
+}
+
+.space {
+    margin-left: 3%;
+    margin-top: 3%;
+}

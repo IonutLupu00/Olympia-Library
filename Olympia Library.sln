@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Olympia Library", "WebApplication\Olympia Library.csproj", "{ED61F98F-F0E5-4B8C-A9B7-D43CF7F4B73C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlympiaLibraryTests", "OlympiaLibraryTests\OlympiaLibraryTests.csproj", "{911E1E39-E028-4B39-8D4C-9511FFFA46EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED61F98F-F0E5-4B8C-A9B7-D43CF7F4B73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED61F98F-F0E5-4B8C-A9B7-D43CF7F4B73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED61F98F-F0E5-4B8C-A9B7-D43CF7F4B73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED61F98F-F0E5-4B8C-A9B7-D43CF7F4B73C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911E1E39-E028-4B39-8D4C-9511FFFA46EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911E1E39-E028-4B39-8D4C-9511FFFA46EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911E1E39-E028-4B39-8D4C-9511FFFA46EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911E1E39-E028-4B39-8D4C-9511FFFA46EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50797CA7-7CFC-44FB-ABAD-37F6382B1E85}
+	EndGlobalSection
+EndGlobal

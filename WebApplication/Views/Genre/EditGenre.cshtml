@@ -1,0 +1,28 @@
+﻿@model Olympia_Library.Models.GenreModel.NewGenreModel
+
+<div class="col-md-8">
+    <form method="post" enctype="multipart/form-data" asp-controller="Genre" asp-action="EditGenre">
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" id="name" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label asp-for="NewName" class="control-label"></label>
+            <input asp-for="NewName" id="newname" class="form-control"  />
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-4">
+                <p>Upload Genre Cover</p>
+                <input type="file" asp-for="ImageFile" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" class="btn btn-primary btn-dark" />
+        </div>
+        @{ if (ViewData["Message"] == "1") @Html.Raw("<p style=\"color:green\">Genre details changed</p>"); }
+        @{ if (ViewData["Message"] == "0") @Html.Raw("<p style=\"color:red\">Genre details could not be changed</p>"); }
+
+    </form>
+</div>

@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-05-06T14:19:36.164995Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f6025e03-f24f-406e-8fdb-9584eaf1c798"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "OlympiaLibrary20210506170753ResourceGroup"
+    }
+  }
+}

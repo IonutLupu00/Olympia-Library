@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewData["Title"] = "admin";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<head>
+
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/CSS/accountStyle.css")" />
+
+</head>
+
+
+
+
+<div class="adminActions center">
+    <div class="space">
+        <label>Book Actions</label>
+        <div>
+            <input class="butt" type="button" title="AddBook" value="Add Book"
+                   onclick="location.href='@Url.Action("AddBook", "Book")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="RemoveBook" value="Remove Book"
+                   onclick="location.href='@Url.Action("RemoveBook", "Book")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="RemoveBook" value="Edit Book"
+                   onclick="location.href='@Url.Action("EditBook", "Book")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="AddGenre" value="Add Genre"
+                   onclick="location.href='@Url.Action("AddGenre", "Genre")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="EditGenre" value="Edit Genre"
+                   onclick="location.href='@Url.Action("EditGenre", "Genre")'" />
+        </div>
+    </div>
+
+
+    <div class="space">
+        <label>Author Actions</label>
+        <div>
+            <input class="butt" type="button" title="AddAuthor" value="Add Author"
+                   onclick="location.href='@Url.Action("AddAuthor", "AdminAuthor")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="RemoveAuthor" value="Remove Author"
+                   onclick="location.href='@Url.Action("RemoveAuthor", "AdminAuthor")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="EditAuthor" value="Edit Author"
+                   onclick="location.href='@Url.Action("EditAuthor", "AdminAuthor")'" />
+        </div>
+    </div>
+
+
+    <div class="space">
+        <label>Branch Actions</label>
+        <div>
+            <input class="butt" type="button" title="AddBranch" value="Add Branch"
+                   onclick="location.href='@Url.Action("AddBranch", "AdminBranch")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="RemoveBranch" value="Remove Branch"
+                   onclick="location.href='@Url.Action("RemoveBranch", "AdminBranch")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="EditBranch" value="Edit Branch"
+                   onclick="location.href='@Url.Action("EditBranch", "AdminBranch")'" />
+        </div>
+        <div>
+            <input class="butt" type="button" title="ViewInventory" value="Inventory"
+                   onclick="location.href='@Url.Action("Inventory", "AdminBranch")'" />
+        </div>
+    </div>
+
+    @*<div class="space">
+        <label>Other</label>
+        <div>
+            <input class="butt" type="button" title="SetBookOfTheDay" value="Set Book Of The Day"
+                   onclick="location.href='@Url.Action("AddBranch", "AdminBranch")'" />
+        </div>
+    </div>*@
+</div>
+
+

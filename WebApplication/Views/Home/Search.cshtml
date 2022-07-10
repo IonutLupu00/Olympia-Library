@@ -1,0 +1,52 @@
+﻿@model Olympia_Library.Models.HomeModel.HomeIndexModel
+@{ ViewData["Title"] = "Search Page"; }
+
+<head>
+    <link rel="stylesheet" href="/css/indexStyle.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="@Url.Content("~/js/JavaScript.js")"></script>
+</head>
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<div class="container mainIndex">
+    <div class="col-lg-12">
+        <form enctype="multipart/form-data" asp-controller="Home" asp-action="Search" method="post">     
+                <div class="form-group">
+                    <input id="searchInput" asp-for="SearchQuery" type="text" class=" form-control" placeholder="Search..." />
+                </div>           
+            
+
+
+        </form>
+
+        <div class="row homeIndexSection">
+
+            <div class="latestAdditions">
+                <h2>Search results</h2>
+                @foreach (var book in Model.BookListing)
+                {
+    <div class="latest-additions-book">
+
+        <a asp-controller="Book" asp-action="Detail" asp-route-id="@book.BookId">
+            <img class="latest-additions-image" src="@book.ImageUrl" />
+        </a>
+
+
+    </div>}
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+</div>
+
+
+@*<script>
+    autocomplete(document.getElementById("searchInput"), "GetTitles");
+</script>*@
+

@@ -1,0 +1,93 @@
+﻿@model IEnumerable<WebApplication.Models.BranchModel>
+
+@{
+    ViewData["Title"] = "Inventory";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<head>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/CSS/inventory.css")" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/CSS/accountStyle.css")" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+
+
+</head>
+<style>
+.content-table{
+                border-collapse:collapse;
+                 margin-left:auto;
+                 margin-right:auto;
+
+                 font-size:1.5em;
+                 min-width:400px;
+                 border-radius: 5px 5px 0 0;
+                 overflow:hidden ;
+                 box-shadow: 0  0 20px rgba(0,0,0,15)
+    }
+    .content-table thead tr{
+        background-color:#009879;
+        color:#ffffff;
+        text-align:left;
+        font-weight:bold;
+    }
+    .content-table th,
+    .content-table td{
+        padding:5px 15px;
+    }
+    .content-table tbody tr{
+        border-bottom:1px solid #000000;
+
+    }
+    .content-table tbody tr:nth-of-type(even){
+        background-color :white;
+
+    }
+    .content-table tbody tr:last-of-type{
+        border-bottom:3px solid #000000;
+    }
+    </style >
+
+    <div class="container" >
+    <table class="content-table" border="1" id="branchesInventory" >
+    <thead >
+    <tr >
+    <th >
+    @Html.DisplayNameFor(model => model.Name)
+    </th >
+    <th >
+    @Html.DisplayNameFor(model => model.Location)
+    </th >
+    <th >
+    Books available
+    </th >
+    </tr >
+    </thead >
+    <tbody >
+    @foreach (var item in Model)
+            {
+                 <tr >
+    <td >
+    @Html.DisplayFor(modelItem => item.Name)
+    </td >
+    <td >
+    @Html.DisplayFor(modelItem => item.Location)
+    </td >
+    <td >
+    @ViewData[item.Name]
+    </td >
+    </tr >
+            }
+    </tbody >
+    </table >
+    </div >
+
+
+    <script type="text/javascript" >
+    $('#branchesInventory').find('tr').click(function () {
+        var branch = $(this).find('td:first').text().trim();
+        console.log(branch);
+        window.location.href = '@Url.Action("SpecificInventory", "Inventory")' + "?branch=" + branch;
+
+    });
+    </script >

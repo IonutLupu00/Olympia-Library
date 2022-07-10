@@ -1,0 +1,10 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h3>
+    @{
+        if (ViewData["Message"] == "1") @Html.Raw("<p style=\"color:green\">Book borrowed </p>");
+        if (ViewData["Message"] == "0") @Html.Raw("<p style=\"color:red\">Book could not be borrowed</p>");
+    }
+</h3>
+<img id="bookadd" width="500px" src="~/images/bookadd.jpg" />

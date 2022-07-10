@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/CSS/indexStyle.css")" />
+
+
+</head>
+<body>
+
+    <ul class="center">
+        <li><a asp-controller="Index" asp-action="Index"><h2>Home</h2></a></li>
+        <li><a asp-controller="Index" asp-action="Books"><h2>Books</h2></a></li>
+        <li><a asp-controller="Index" asp-action="BookSpecial"><h2>Book of the day</h2></a></li>
+        <li><a asp-controller="Index" asp-action="About"><h2>About</h2></a></li>
+        <li><a asp-controller="Index" asp-action="Account"><h2>Account</h2></a></li>
+        <li><a asp-controller="Index" asp-action="Admin"><h2> Admin<br />privileges</h2></a></li>
+    </ul>
+
+    <div class="divBg">
+        Citim împreună.
+        Rămânem împreună.
+        Stăm acasă!
+        Biblioteca Județeană „[Adauga numele bibliotecii aici cand te hotarasti]” implementează, de-a lungul perioadei
+        speciale în care ne aflăm, proiectul „Citim împreună. Rămânem împreună. Stăm acasă!”.
+        Fiind vorba despre un program cu multiple activități și ramificații, proiectul se vrea
+        o alternativă exclusiv online la programele educaționale de care, în număr mare, se bucură
+        un număr consistent de utilizatori. Ne dorim ca, împreună cu stakeholderii noștri,
+        să desfășurăm o serie de activități interactive pentru cititorii care, în vremuri normale,
+        frecventează biblioteca în număr mare.
+    </div>
+
+</body>
+</html>

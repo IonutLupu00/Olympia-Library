@@ -1,0 +1,1163 @@
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.pdb
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.deps.json
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.json
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.dev.json
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.exe
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.exe
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.deps.json
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.json
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.dev.json
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.pdb
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csprojAssemblyReference.cache
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfoInputs.cache
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfo.cs
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CoreCompileInputs.cache
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CopyComplete
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.genruntimeconfig.cache
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\Coduri2.0\Semestru 2 jale\.WebApp final final final\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Moq.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.json
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.exe
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.pdb
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.deps.json
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.json
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.dev.json
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.exe
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.deps.json
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.json
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.dev.json
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Moq.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.pdb
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csprojAssemblyReference.cache
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfoInputs.cache
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfo.cs
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CoreCompileInputs.cache
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CopyComplete
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.genruntimeconfig.cache
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+E:\facultate\Proiect Databases\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\WebDriver.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.json
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.exe
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.pdb
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.deps.json
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.json
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.dev.json
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.StaticWebAssets.xml
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.exe
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.deps.json
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.json
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.dev.json
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Moq.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\WebDriver.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.pdb
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.AssemblyReference.cache
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfoInputs.cache
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfo.cs
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CoreCompileInputs.cache
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CopyComplete
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+E:\facultate\an3\sem2\Sistem-informatic-distribuit-pentru-gestionarea-activitatii-unei-biblioteci-Ionut1\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.genruntimeconfig.cache
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.json
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.exe
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.pdb
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.deps.json
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.json
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.dev.json
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.exe
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.deps.json
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.json
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.dev.json
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Moq.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\WebDriver.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.pdb
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.AssemblyReference.cache
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfoInputs.cache
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfo.cs
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CoreCompileInputs.cache
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CopyComplete
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.genruntimeconfig.cache
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.StaticWebAssets.xml
+E:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\appsettings.json
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.StaticWebAssets.xml
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.exe
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.Views.pdb
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.deps.json
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.json
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.runtimeconfig.dev.json
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.exe
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.deps.json
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.json
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.runtimeconfig.dev.json
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Moq.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\bin\Debug\netcoreapp3.1\Olympia Library.pdb
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.AssemblyReference.cache
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfoInputs.cache
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.AssemblyInfo.cs
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CoreCompileInputs.cache
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.csproj.CopyComplete
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.dll
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.pdb
+D:\facultate\an4\sem2\Information_Retrieval\WebApp2.0\OlympiaLibraryTests\obj\Debug\netcoreapp3.1\OlympiaLibraryTests.genruntimeconfig.cache

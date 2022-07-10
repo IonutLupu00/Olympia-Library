@@ -1,0 +1,65 @@
+﻿
+
+body {
+    height: 100%;
+    background-image: url("../images/booksBg.jpg");
+}
+
+a{
+    color:black;
+}
+
+a:hover{
+    color:rgb(72 72 72);
+}
+
+.center div{
+    margin: auto;
+    width: 50%;
+    border: 3px solid grey;
+    padding: 10px;
+}
+
+.divBg {
+    margin: auto;
+    width: 70%;
+    color: black;
+    font-size: 1.25em;
+    height: 100%;
+}
+    .divBg div div {
+        margin: auto;
+        width: 100%;
+        background: none;
+        padding: 10px;
+    }
+
+.left {
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+
+
+
+.butctr{
+    position: relative;
+    left:30%;
+    width:5em;
+    height:2em;
+}
+
+.butt {
+    width: 80%;
+    position:center;
+}
+
+.space {
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.adminActions {
+    text-align:center;
+    padding:20px;
+}

@@ -1,0 +1,118 @@
+﻿@model WebApplication.Models.StockModel
+
+@{
+    ViewData["Title"] = "Inventory";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<head>
+
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/CSS/Inventory.css")" />
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/CSS/autocomplete.css")" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="@Url.Content("~/js/JavaScript.js")"></script>
+
+</head>
+<style>
+    .content-table {
+        border-collapse: collapse;
+        margin-left:auto;
+        margin-right:250px;
+
+        font-size: 0.9em;
+        min-width: 400px;
+        border-radius: 5px 5px 0 0;
+        overflow: hidden;
+        box-shadow: 0 0 20px rgba(0,0,0,15)
+    }
+
+        .content-table thead tr {
+            background-color: #009879;
+            color: #ffffff;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        .content-table th,
+        .content-table td {
+            padding: 5px 15px;
+        }
+
+        .content-table tbody tr {
+            border-bottom: 1px solid #000000;
+        }
+
+            .content-table tbody tr:nth-of-type(even) {
+                background-color: white;
+            }
+
+            .content-table tbody tr:last-of-type {
+                border-bottom: 3px solid #000000;
+            }
+    tr:nth-of-type(even) {
+        background-color: white;
+    }
+</style>
+    <div class="container">
+        <b> Branch @Html.Raw(Model.LibraryName)</b>
+        <table class="content-table" border="1" id="branchesInventory">
+            <thead>
+                <tr>
+                    <th>
+                        Title
+                    </th>
+                    <th>
+                        Quantity
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Stock)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.bookTitle)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.bookQuantity)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+        <div class="row">
+            <div class="col-md-4">
+                <form  asp-action="EditInventory">
+                    <div class="form-group">
+                        <label asp-for="updatedInventoryTitle" class="control-label">Title</label>
+                        <input asp-for="updatedInventoryTitle" class="form-control" id="updatedInventoryTitle" autocomplete="off" required />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="updatedInventoryQuantity" class="control-label">Quantity</label>
+                        <input asp-for="updatedInventoryQuantity" class="form-control" id="updatedInventoryQuantity" required/>
+                    </div>
+                    <div class="form-group" hidden>
+                        <label asp-for="LibraryName" class="control-label"></label>
+                        <input asp-for="LibraryName" class="form-control" id="LibraryName" />
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Add/Remove" class="btn btn-primary btn-dark" />
+                    </div>
+
+                    @{ if (ViewData["Message"] == "1") @Html.Raw("<p style=\"color:green\">Inventory updated</p>"); }
+                    @{ if (ViewData["Message"] == "0") @Html.Raw("<p style=\"color:red\">Inventory could not be updated</p>"); }
+
+                </form>
+            </div>
+        </div>
+
+
+    </div>
+
+
+<script>autocomplete(document.getElementById('updatedInventoryTitle'), 'GetTitles')</script>

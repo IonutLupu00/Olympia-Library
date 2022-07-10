@@ -1,0 +1,23 @@
+﻿body {
+    height: 100%;
+    background-image: url("../images/booksBg.jpg");
+}
+
+
+
+.divBg {
+    width: 100%;
+    position: center;
+    left: 15%;
+    background: rgba(225,198,153,0.75);
+    color: black;
+    font-size: 1.5em;
+    white-space: pre;
+}
+
+#bodd{
+    position:relative;
+    top:1em;
+    left:2%;
+
+}

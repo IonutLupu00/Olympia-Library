@@ -1,0 +1,49 @@
+﻿
+@using Microsoft.AspNetCore.Identity
+@using Olympia_Library.Data
+@model Olympia_Library.Models.ShoppingModel.TransactionIndexModel
+@inject UserManager<ApplicationUser> UserManager
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="~/css/cart.css" />
+</head>
+<body>
+    <h3>Cart Page</h3>
+    <div class="table-wrapper">
+        <table cellpadding="2" cellspacing="2" border="1" class="fl-table">
+            <tr>
+
+                <th>Transaction Date</th>
+                <th>Number of Items Purchased</th>
+                <th>Total Spent</th>
+                <th>Purchases List</th>
+            </tr>
+
+            @if (Model.Transactions != null)
+            {
+                @foreach (var tuple in Model.Transactions)
+                {
+                    <tr class="cartTableRow">
+                        <td>@tuple.Item1.TransactionDate</td>
+                        <td>@tuple.Item2</td>
+                        <td>@tuple.Item3</td>
+                        <td><a asp-controller="Cart" asp-action="PurchaseIndex" asp-route-id="@tuple.Item1.TransactionId">Items purchased</a></td>
+                    </tr>
+                }
+            }
+
+
+
+          
+        </table>
+
+    </div>
+
+    <br>
+    <a asp-controller="home" asp-action="index">Continue Shopping</a>
+    <script src="~/js/cart.js" asp-append-version="true"></script>
+</body>
+</html>

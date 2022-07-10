@@ -1,0 +1,54 @@
+﻿@model WebApplication.Models.BookModel
+
+
+<head>
+    <link rel="stylesheet" href="~/css/booksStyle.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+    <div class="container book-detail">
+        <div class="row detail-content">
+            <div class="col-md-4">
+                <span>
+                    <img src="@Model.ImageUrl" class="book-detail-image" />
+                </span>
+                
+
+
+            </div>
+            <div class="col-md-6 book-detail-description">
+                <span>Title :  @Model.Title</span>
+
+                <span>Author: @Model.AuthorName</span>
+
+                <span>
+                    Price: @Model.Price $
+                </span>
+                <span>
+                    <a class="btn btn-dark buyBtn" asp-controller="Cart" asp-action="Buy" asp-route-id="@Model.BookId">
+                            Buy now                  
+                    </a>
+                    
+                </span>
+                <span>
+                    Description: <br />
+                    @Model.Description
+                </span>
+
+            </div>
+
+        </div>
+        <div class="row">
+
+        </div>
+    </div>
+
+</body>
+
+<script type="text/javascript">
+    $('#borrow').click(function () {
+        window.location.href = '@Url.Action("Borrow", "Borrow")' + "?title=" + "@Model.Title";   
+    });
+</script>

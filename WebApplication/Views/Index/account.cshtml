@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "account";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/CSS/accountStyle.css")" />
+
+</head>
+
+
+
+<body>
+
+
+
+
+    <div class="divBg">
+        <label class="left"><SIGN IN</label><br /><br /><br /><br />
+        <label class="left" for="email">email:</label>
+        <input type="text" id="email" email="email"><br>
+        <label class="left" for="password">password:</label>
+        <input type="text" id="password" password="password"><br />
+        <button class="butctr">Login</button>
+        <br /><br /><br /> <br /><br />
+
+
+        <label class="left">REGISTER</label><br /><br /><br /><br />
+        <label class="left" for="fname">First name:</label>
+        <input type="text" id="fname" name="fname"><br>
+        <label class="left" for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname"><br>
+        <label class="left" for="email">email:</label>
+        <input type="text" id="email" email="email"><br>
+        <label class="left" for="phone">phone:</label>
+        <input type="text" id="phone" email="phone"><br>
+        <label class="left" for="password">password:</label>
+        <input type="text" id="password" password="password"><br />
+        <label class="left" for="c_password">confirm password:</label>
+        <input type="text" id="c_password" c_password="c_password"><br />
+        <button class="butctr">Register</button><br /><br />
+
+    </div>
+
+
+
+</body>
+</html>
+

@@ -1,0 +1,55 @@
+﻿
+body {
+    background-image: url("../images/booksBg.jpg");
+}
+
+#bookIndexBody {
+    color:black;
+}
+
+.bookCarousel {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.bookImage{
+    height:200px;
+    width:140px;
+
+}
+
+.book-detail {
+    padding:20px 0 20px 0;
+}
+
+.book-detail-image {
+    height: 450px;
+    width: 300px;
+}
+
+.detail-content{
+    
+}
+
+.book-detail-description span{
+    display:block;
+    margin:40px;
+    font-size:1.5em;
+}
+
+#btnBorrow{
+    
+}
+
+a :link{
+    color: black;
+}
+
+    a:link:hover {
+        color: rgb(72 72 72);
+    }
+
+
+.buyBtn{
+    padding:5px;
+}

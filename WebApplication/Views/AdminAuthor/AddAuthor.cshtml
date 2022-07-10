@@ -1,0 +1,45 @@
+﻿@model WebApplication.Models.AuthorModel
+
+@{
+    ViewData["Title"] = "admin";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<head>
+
+
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/CSS/accountStyle.css")" />
+</head>
+
+
+
+
+
+    <div class="divBg">
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="AddAuthor">
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Birth_year" class="control-label"></label>
+                        <input asp-for="Birth_year" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Deceased" class="control-label"></label>
+                        <input asp-for="Deceased" class="form-control"  />
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Add Author" class="btn btn-primary" />
+                    </div>
+
+                    @{ if ((string)ViewData["Message"] == "1") @Html.Raw("<p style=\"color:green\">Author added</p>"); }
+                    @{ if ((string)ViewData["Message"] == "0") @Html.Raw("<p style=\"color:red\">Author could not added</p>"); }
+
+                </form>
+            </div>
+        </div>
+    </div>

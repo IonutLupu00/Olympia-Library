@@ -1,0 +1,38 @@
+﻿@model Olympia_Library.Models.ShoppingModel.PurchaseIndexModel
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="~/css/cart.css" />
+</head>
+<body>
+    <h3>Cart Page</h3>
+    <div class="table-wrapper">
+        <table cellpadding="2" cellspacing="2" border="1" class="fl-table">
+            <tr>
+                <th>Book Name</th>
+                <th>Book Price</th>
+                <th>Quantity</th>
+                <th>Subtotal</th>
+            </tr>
+            @if (Model.Purchases != null)
+                foreach (var purchase in Model.Purchases)
+                {
+                    <tr class="cartTableRow">
+                        <td>@purchase.Item2.Title</td>
+                        <td>@purchase.Item2.Price</td>
+                        <td>@purchase.Item1.Quantity</td>
+                        <td>@purchase.Item3</td>
+                    </tr>
+                }
+
+
+        </table>
+
+    </div>
+
+    <br>
+    <script src="~/js/cart.js" asp-append-version="true"></script>
+</body>
+</html>

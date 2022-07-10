@@ -1,0 +1,60 @@
+@using Microsoft.AspNetCore.Identity
+@using Olympia_Library.Data
+
+@inject UserManager<ApplicationUser> UserManager
+@model Olympia_Library.Models.ShoppingModel.CartIndexModel 
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="~/css/cart.css" />
+</head>
+<body>
+    <h3>Cart Page</h3>
+    <div class="table-wrapper">
+        <table cellpadding="2" cellspacing="2" border="1" class="fl-table">
+            <tr>
+                <th>Option</th>
+                <th>Name</th>
+                <th>Details</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Sub Total</th>
+            </tr>
+            @if (ViewBag.cart != null)
+            {
+                foreach (var item in ViewBag.cart)
+                {
+                    <tr class="cartTableRow">
+                        <td><a asp-controller="cart" asp-action="remove" asp-route-id="@item.Book.BookId">Remove</a></td>
+                        <td>@item.Book.Title</td>
+                        <td><a asp-controller="Book" asp-action="Detail" asp-route-id="@item.Book.BookId">Book Details</a> </td>
+                        <td>@item.Book.Price</td>
+                        <td>@item.Quantity</td>
+                        <td>@(item.Book.Price * item.Quantity)</td>
+                    </tr>
+                }
+            }
+
+            <tr class="">
+
+                <td align="right" colspan="7" style="font-size:larger;">
+                    Total:
+                    @ViewBag.total
+                </td>
+            </tr>
+        </table>
+        <a class="btn btn-dark btnCheckout" style="color:green" asp-controller="Cart" asp-action="Checkout">
+            Checkout
+        </a>
+
+
+
+    </div>
+
+    <br>
+    <a asp-controller="home" asp-action="index">Continue Shopping</a>
+    <script src="~/js/cart.js" asp-append-version="true"></script>
+</body>
+</html>
